@@ -4,15 +4,13 @@ my first repository to store and write
 I will write on the Bioinformatics workshop we have had since  23 January - 27 January 2023
 
 # Day one
-Inntsallation of tools
+**Inntsallation of tools**
 
-install:
-
-Git Bash
-R studio
+1.Git Bash
+2.R studio
 
 # Day two
-introduction to Commandline
+**introduction to Commandline**
 
 # Day three
-introduction to github
+**introduction to github**
