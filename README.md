@@ -6,7 +6,7 @@ I will write on the Bioinformatics workshop we have had since  23 January - 27 J
 
 
 # Day one
-**Inntsallation of tools**
+**Intsallation of tools**
 Install:
 1.Git Bash
 2.R studio
@@ -22,7 +22,7 @@ Install:
 - How can I specify the location of a file or a directory on my computer?
 
 3. Working with files and directories. How can I create, copy and delete files and directories
--How can I edit files?
+ -How can I edit files?
 
 
 # Day three
