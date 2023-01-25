@@ -1,12 +1,11 @@
-# Myfirst
-my first repository to store and write
-
-
-I will write on the Bioinformatics workshop we have had since  23 January - 27 January 2023
-
+# Bioinformatics-Workshop
+The First Bioinformatics workshop for bioomedical students held from 23 January 2023 - 27 January 2023
 
 # Day one
 **Intsallation of tools**
+The following describes steps you can use to install required tools for the training.
+
+
 Install:
 1.Git Bash
 2.R studio
@@ -25,6 +24,10 @@ Install:
  -How can I edit files?
 
 
-# Day three
+### Reading materials
+-[Carpentries resources]( https://swcarpentry.github.io/shell-novice/)
+
+
+# Day Three
 
 **introduction to github**
