@@ -22,6 +22,7 @@ Install:
 - How can I specify the location of a file or a directory on my computer?
 
 3. Working with files and directories. How can I create, copy and delete files and directories
+
 -How can I edit files?
 
 
