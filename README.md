@@ -7,10 +7,12 @@ I will write on the Bioinformatics workshop we have had since  23 January - 27 J
 **Inntsallation of tools**
 
 1.Git Bash
+
 2.R studio
 
 # Day two
 **introduction to Commandline**
+
 
 # Day three
 **introduction to github**
