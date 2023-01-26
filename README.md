@@ -8,6 +8,7 @@ The following describes steps you can use to install required tools for the trai
 
 Install:
 1.Git Bash
+
 2.R studio
 
 # Day two
