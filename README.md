@@ -1,5 +1,5 @@
 # Bioinformatics-Workshop
-The First Bioinformatics workshop for bioomedical students held from 23 January 2023 - 27 January 2023
+The First Bioinformatics workshop for biomedical students held from 23 January 2023 - 27 January 2023
 
 # Day one
 **Intsallation of tools**
@@ -17,7 +17,7 @@ Install:
 - What is a command shell and why would I use one?
 2. Navigating files and directories:
 - How can I move around my computer?
-- How can I see what files and directoriesI have?
+- How can I see what files and directories I have?
 - How can I specify the location of a file or a directory on my computer?
 
 3. Working with files and directories. How can I create, copy and delete files and directories
